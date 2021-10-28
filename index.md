@@ -20,20 +20,26 @@ Deberás seguir esta misma recomendación si tu lavadora no tiene programas para
 7. Retira el exceso de agua estrujando un poco la prenda sin retorcer para que las fibras no se estiren.
 8. Deja secar en posición horizontal hasta que la lana suelte la mayor cantidad de agua.
 
-          ![image](https://user-images.githubusercontent.com/92941834/139190757-11eff1f7-7570-46a3-941f-c805103a2e22.png)
+## ALIMENTACIÓN
+Para que nuestros hijos crezcan sanos y fuertes, es necesario seguir una correcta alimentación para bebés en todas las etapas de su vida. Muchos padres no entienden que las necesidades nutricionales de sus hijos son diferentes a las necesidades de los adultos, por lo que la alimentación para bebés debe adaptarse en todo momento para que se la más adecuada. Te damos las pautas para que la alimentación de tu bebé sea sana y equilibrada, qué alimentos y nutrientes necesitan, además de muchos consejos y prácticas trucos para conseguir que los pequeños coman todo tipo de alimentos “difíciles” sin que pongan los típicos impedimentos.
+
+## CÓMO PREPARAR EL BIBERÓN A UN RECIÉN NACIDO 
+Seguir correctamente los pasos para saber cómo preparar el biberón a un bebé desde el primer día de su nacimiento no es nada complicado. Sin embargo, al principio nos puede parecer una misión imposible a los padres primerizos, ya que debemos respetar unos pequeños pasos para no equivocarnos y que la elaboración del biberón sea correcta y sobre todo segura.
+
+1. Limpia la superficie donde preparas el biberón si no lo está.
+2. Lávate las manos con agua y jabón y sécalas.
+3. Hierve el agua potable limpia (depende de tu ciudad igual tienes que comprar agua embotellada pero en Navarra por ejemplo, el agua del grifo es correcta).
+4. Una vez rompe a hervir está a 100ºC y habrán muerto los posibles microorganismos.
+5. Pon un cacito de polvo de leche de fórmula por cada 30ml.
+6. Y echa el polvo antes de que el agua baje a 70º, es decir, en menos de media hora desde que ha hervido.
+7. Mezcla agua con polvos. TRUCAZO: JAMÁS JAMÁS JAMÁS AGITES EL BIBERÓN. Esto incorpora mucho aire en la fórmula y tu bebé es casi seguro que tendrá cólicos por tragar tanto aire. MI consejo es mezclar los ingredientes con un tenedor bien limpio. El tenedor mezcla mejor que una cuchara aunque también puedes usar una cuchara. No uses el cacito de la leche si luego lo vas a reutilizar.
+8. Pon el biberón bajo el chorro de agua fría para enfriar la leche.
+9. Comprueba la temperatura del biberón echándolo en el interior de la muñeca. Cuando no notes la gota, es correcto.
+10. Dar el biberón al bebé.
+11. Tira todo lo que el bebé no se tome en 2 horas.
+![image](https://user-images.githubusercontent.com/92941834/139192268-06db40fa-6b53-42ec-8300-b633948d1331.png)
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yolandatotoy/para-tu-beb-.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+         
